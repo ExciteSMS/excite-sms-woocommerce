@@ -27,7 +27,7 @@ The ExciteSMS for WooCommerce plugin allows you to send SMS notifications using 
 Follow these steps to install the ExciteSMS for WooCommerce plugin:
 
 1. **Download the Plugin:**
-   - You can download the plugin from [GitHub](#plugin-github-link) or the WordPress plugin repository.
+   - You can download the plugin from [GitHub](https://github.com/ExciteSMS/excite-sms-woocommerce) or the WordPress plugin repository.
    - Alternatively, you can search for "ExciteSMS for WooCommerce" in the WordPress Admin Dashboard under "Plugins" -> "Add New" and click "Install Now."
 
 2. **Activate the Plugin:**
